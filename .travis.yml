@@ -1,0 +1,11 @@
+language: php
+php:
+  -"latest"
+
+#command to install dependencies
+install:
+  -
+
+#command to run tests
+script:
+  -
