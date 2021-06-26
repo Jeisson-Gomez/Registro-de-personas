@@ -1,6 +1,6 @@
 language: php
 php:
-  -"latest"
+  -"8.0.7-dev"
 
 #command to install dependencies
 install:
