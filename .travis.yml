@@ -1,6 +1,6 @@
 language: php
 php:
-  -"7.2.15"
+  -"7.4.19"
 
 #command to install dependencies
 install:
